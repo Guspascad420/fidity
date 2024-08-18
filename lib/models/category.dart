@@ -1,0 +1,3 @@
+enum Category {
+  disability, guardian
+}
